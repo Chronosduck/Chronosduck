@@ -20,7 +20,7 @@
 
  </div>
  
-<div align="center"> 
+<div align="center" style="display:flex; gap:6px; justify-content:center; flex-wrap:wrap;">
   <!-- Gmail -->
   <a href="mailto:dachronosduck@gmail.com">
     <img 
@@ -66,6 +66,7 @@
     />
   </a>
 </div>
+
 
  <hr/>
  
