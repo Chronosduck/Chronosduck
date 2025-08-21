@@ -21,22 +21,50 @@
  </div>
  
 <div align="center"> 
+  <!-- Gmail -->
   <a href="mailto:dachronosduck@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-    <a href="">
-          <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="youtube logo"  />
-    </a>
-    <a href="">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
-    </a>
-    <a href = "">
-          <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
-    </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img 
+      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" 
+      alt="Gmail" 
+      height="28"
+    />
   </a>
 
+  <!-- YouTube -->
+  <a href="YOUR_YOUTUBE_LINK_HERE">
+    <img 
+      src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" 
+      alt="YouTube" 
+      height="28"
+    />
+  </a>
+
+  <!-- Instagram -->
+  <a href="YOUR_INSTAGRAM_LINK_HERE">
+    <img 
+      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" 
+      alt="Instagram" 
+      height="28"
+    />
+  </a>
+
+  <!-- Discord -->
+  <a href="YOUR_DISCORD_INVITE_LINK_HERE">
+    <img 
+      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" 
+      alt="Discord" 
+      height="28"
+    />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://salesp07.github.io" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" 
+      alt="Portfolio"
+      height="28"
+    />
+  </a>
 </div>
 
  <hr/>
