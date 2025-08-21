@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently learning for **Olympiad In Informative**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently preparing for **KMUTL, CU, MU**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **anything [here](https://google.com)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Did you know that octopuses have three hearts? Two pump blood through the gills, one pumps it to the rest of the body.
 
  </div>
  
